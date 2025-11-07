@@ -1,21 +1,20 @@
 using System;
 
-
 class Student
 {
     string name;
     int id;
     double cgpa;
 
-    
+    // Construtor 
     public Student(string Name, int id, double cgpa) //creat filed
     {
         name = Name;
         this.id = id;
         this.cgpa = cgpa;
-
     }
 
+    // Display Output Function the All student info
     void Display()
     {
         Console.WriteLine("Student Name: " + name);
@@ -23,7 +22,8 @@ class Student
         Console.WriteLine("Student CGPA: " + cgpa);
 
     }
-    
+
+    // Main Function this will execute only.
     static void Main()
     {
 
