@@ -197,11 +197,13 @@ namespace TrainTicketManagementSystem
         // OPERATOR OVERLOADING
         public static bool operator ==(Ticket a, Ticket b)
         {
+            if (ReferenceEquals(a, b)) return true;
+            if (ReferenceEquals(a, null) || ReferenceEquals(b, null)) return false;
             return a.PNR == b.PNR;
         }
         public static bool operator !=(Ticket a, Ticket b)
         {
-            return a.PNR != b.PNR;
+            return !(a == b);
         }
         public override bool Equals(object obj) => base.Equals(obj);
         public override int GetHashCode() => base.GetHashCode();
@@ -452,3 +454,4 @@ namespace TrainTicketManagementSystem
         }
     }
 }
+
