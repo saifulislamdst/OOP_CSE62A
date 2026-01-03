@@ -1,0 +1,16 @@
+E:\BSC\Academic\4th-Semi-Fall-25\OOP-C#\LAB-Final-Project\Train-Ticketing-System\bin\Debug\net5.0\Train-Ticketing-System.exe
+E:\BSC\Academic\4th-Semi-Fall-25\OOP-C#\LAB-Final-Project\Train-Ticketing-System\bin\Debug\net5.0\Train-Ticketing-System.deps.json
+E:\BSC\Academic\4th-Semi-Fall-25\OOP-C#\LAB-Final-Project\Train-Ticketing-System\bin\Debug\net5.0\Train-Ticketing-System.runtimeconfig.json
+E:\BSC\Academic\4th-Semi-Fall-25\OOP-C#\LAB-Final-Project\Train-Ticketing-System\bin\Debug\net5.0\Train-Ticketing-System.runtimeconfig.dev.json
+E:\BSC\Academic\4th-Semi-Fall-25\OOP-C#\LAB-Final-Project\Train-Ticketing-System\bin\Debug\net5.0\Train-Ticketing-System.dll
+E:\BSC\Academic\4th-Semi-Fall-25\OOP-C#\LAB-Final-Project\Train-Ticketing-System\bin\Debug\net5.0\ref\Train-Ticketing-System.dll
+E:\BSC\Academic\4th-Semi-Fall-25\OOP-C#\LAB-Final-Project\Train-Ticketing-System\bin\Debug\net5.0\Train-Ticketing-System.pdb
+E:\BSC\Academic\4th-Semi-Fall-25\OOP-C#\LAB-Final-Project\Train-Ticketing-System\obj\Debug\net5.0\Train-Ticketing-System.csprojAssemblyReference.cache
+E:\BSC\Academic\4th-Semi-Fall-25\OOP-C#\LAB-Final-Project\Train-Ticketing-System\obj\Debug\net5.0\Train-Ticketing-System.GeneratedMSBuildEditorConfig.editorconfig
+E:\BSC\Academic\4th-Semi-Fall-25\OOP-C#\LAB-Final-Project\Train-Ticketing-System\obj\Debug\net5.0\Train-Ticketing-System.AssemblyInfoInputs.cache
+E:\BSC\Academic\4th-Semi-Fall-25\OOP-C#\LAB-Final-Project\Train-Ticketing-System\obj\Debug\net5.0\Train-Ticketing-System.AssemblyInfo.cs
+E:\BSC\Academic\4th-Semi-Fall-25\OOP-C#\LAB-Final-Project\Train-Ticketing-System\obj\Debug\net5.0\Train-Ticketing-System.csproj.CoreCompileInputs.cache
+E:\BSC\Academic\4th-Semi-Fall-25\OOP-C#\LAB-Final-Project\Train-Ticketing-System\obj\Debug\net5.0\Train-Ticketing-System.dll
+E:\BSC\Academic\4th-Semi-Fall-25\OOP-C#\LAB-Final-Project\Train-Ticketing-System\obj\Debug\net5.0\ref\Train-Ticketing-System.dll
+E:\BSC\Academic\4th-Semi-Fall-25\OOP-C#\LAB-Final-Project\Train-Ticketing-System\obj\Debug\net5.0\Train-Ticketing-System.pdb
+E:\BSC\Academic\4th-Semi-Fall-25\OOP-C#\LAB-Final-Project\Train-Ticketing-System\obj\Debug\net5.0\Train-Ticketing-System.genruntimeconfig.cache
